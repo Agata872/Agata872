@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Agata872&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Agata872?style=flat&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Agata872?style=flat&label=Profile Stars" alt="GitHub profile stars" />
+  <img src="https://img.shields.io/github/stars/Agata872?style=flat&label=Profile%20Stars" alt="GitHub profile stars" />
   <img src="https://img.shields.io/badge/Research-6G%20CF%20MIMO-blue" alt="6G CF MIMO" />
   <img src="https://img.shields.io/badge/Project-EMPOWER--6G-success" alt="EMPOWER-6G" />
 </p>
