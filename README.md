@@ -1,4 +1,5 @@
-# Tianzheng Liu | Wireless AI & Cell-free Massive MIMO
+# Tianzheng Miao | Wireless AI & Cell-free Massive MIMO
+Advanced PHY Algorithm Development and Real-world System-level Deployment
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Agata872&style=flat" alt="Profile views" />
@@ -37,22 +38,21 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 
 | Description | Link | Status |
 |------------|------|--------|
+| Quantize and Interference Aware | [repo](https://github.com/Agata872/Quantize_aware_experiments.git) | 🟢 Ongoing |
 | GNN-based Precoding | [repo](https://github.com/Agata872/Gnn_based_downlink_precoder_Deployment.git) | ✔ Finalised |
 | Techtile CSI Collection | [repo](https://github.com/Agata872/Techtile_Channel_Measurement.git) | ✔ Finalised |
-| Quantize and Interference Aware | [repo](https://github.com/Agata872/Quantize_aware_experiments.git) | 🟢 Ongoing |
 
 ---
 
 ## 📄 Papers' LaTeX Codes
-
-> 🔁 Replace the repo links below with your actual LaTeX repositories if needed.
 
 | Description | Link | Status |
 |------------|------|--------|
 | Progress Report | [repo](https://github.com/Agata872/GNN_Precoder_Deployment_WCNC.git) | 🟡 Planning |
 | Testbed Evaluation of AI-based Precoding in Distributed MIMO Systems | [repo](https://github.com/Agata872/GNN_Precoder_Deployment_WCNC.git) | ✔ Finalised |
 | GNN-based Precoder Design and Deployment | [repo](https://github.com/Agata872/NFV-SDN-Abstract.git) | ✔ Finalised |
-| GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI | [repo](https://github.com/Agata872/Fine-tuning-GNN-based-Precoder-SITB.git) | 🟡 Editing |
+| GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI (SITB Poster) | [repo](https://github.com/Agata872/SITB-Poster.git) | ✔ Finalised |
+| GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI (SITB Paper) | [repo](https://github.com/Agata872/Fine-tuning-GNN-based-Precoder-SITB.git) | ✔ Finalised |
 | Target-Mounted Intelligent Reflecting Surface for Wireless Sensing (Master Thesis) | [repo](https://github.com/Agata872/Thesis.git) | ✔ Finalised |
 
 
@@ -65,12 +65,10 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 
 | Description | Link | Status |
 |------------|------|--------|
-| GNN-based Precoder Design and Fine-tuning for CF Massive MIMO | [repo](https://github.com/Agata872/GNN_CF_Precoder_Design.git) | 🟢 Ongoing |
-| Cell-free Massive MIMO Simulator (Downlink/Uplink, Pilot, Precoding) | [repo](https://github.com/Agata872/Cellfree_Massive_MIMO_Simulator.git) | 🟢 Ongoing |
-| Real CSI-based CF Precoding (Techtile Integration, B210 + UHD) | [repo](https://github.com/Agata872/CF_Precoding_Techtile.git) | 🟢 Ongoing |
 | AI-based Distributed Processing in O-RAN Architecture | [repo](https://github.com/Agata872/ORAN_Distributed_Processing_AI.git) | 🟡 Planning |
-| Graph Neural Network Basic Modules for Wireless Communications | [repo](https://github.com/Agata872/GNN_Basic_Modules.git) | ✔ Finalised |
-| OFDM SDR Transceiver (GNU Radio + USRP B210) | [repo](https://github.com/Agata872/OFDM_USRP_GNURadio.git) | ✔ Finalised |
+| Quantization in the fronthaul link and interference aware transmission | [repo](https://github.com/Agata872/Low_signal_resolution_extended.git) | 🟢 Ongoing |
+| GNN-based precoding deployment in Techtile (Downlink/Uplink, Pilot, Precoding) | [repo](https://github.com/Agata872/Gnn_based_downlink_precoder_Deployment.git) | ✔ Finalised |
+| Real CSI collection (Techtile Integration, B210 + UHD) | [repo](https://github.com/Agata872/Techtile_Channel_Measurement.git) | ✔ Finalised |
 
 ---
 
@@ -104,9 +102,9 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 
 ## 📫 Contact
 
-- 🎓 Affiliation: EMPOWER-6G Doctoral Network  
+- 🎓 Affiliation: KU Leuven & Marie Skłodowska-Curie Actions: EMPOWER-6G Doctoral Network  
 - 📍 Location: Belgium  
-- ✉️ Email: *(add your preferred email here)*  
+- ✉️ Email: *(tianzheng.miao@kuleuven.be)*  
 - 🌐 GitHub: [@Agata872](https://github.com/Agata872)
 
 > If you use or build upon these codes or LaTeX projects, a citation or a star ⭐ is always appreciated.
