@@ -49,10 +49,13 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 
 | Description | Link | Status |
 |------------|------|--------|
-| GNN-based Precoder Design for Cell-free Massive MIMO (Master Thesis) | [repo](https://github.com/Agata872/GNN_based_precoder_thesis_LaTeX.git) | ✔ Finalised |
-| Scalable & Distributed Processing in CF Networks (EMPOWER-6G D4.1 – Section 4) | [repo](https://github.com/Agata872/Empower6G_D4.1_LaTeX.git) | 🟡 Editing |
-| Advanced Image Deraining Network with Attention and Multi-scale Features | [repo](https://github.com/Agata872/Image_Deraining_Paper_LaTeX.git) | ✔ Finalised |
-| Model Predictive Control for Single-phase Inverter Stability (Undergraduate Thesis) | [repo](https://github.com/Agata872/Single_phase_inverter_MPC_Thesis_LaTeX.git) | ✔ Finalised |
+| Progress Report | [repo](https://github.com/Agata872/GNN_Precoder_Deployment_WCNC.git) | 🟡 Planning |
+| Testbed Evaluation of AI-based Precoding in Distributed MIMO Systems | [repo](https://github.com/Agata872/GNN_Precoder_Deployment_WCNC.git) | ✔ Finalised |
+| GNN-based Precoder Design and Deployment | [repo](https://github.com/Agata872/NFV-SDN-Abstract.git) | ✔ Finalised |
+| GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI | [repo](https://github.com/Agata872/Fine-tuning-GNN-based-Precoder-SITB.git) | 🟡 Editing |
+| Target-Mounted Intelligent Reflecting Surface for Wireless Sensing (Master Thesis) | [repo](https://github.com/Agata872/Thesis.git) | ✔ Finalised |
+
+
 
 ---
 
