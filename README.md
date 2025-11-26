@@ -67,6 +67,7 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 | AI-based Distributed Processing in O-RAN Architecture | [repo](https://github.com/Agata872/ORAN_Distributed_Processing_AI.git) | 🟡 Planning |
 | Quantization in the fronthaul link and interference aware transmission | [repo](https://github.com/Agata872/Low_signal_resolution_extended.git) | 🟢 Ongoing |
 | GNN-based precoding deployment in Techtile (Downlink/Uplink, Pilot, Precoding) | [repo](https://github.com/Agata872/Gnn_based_downlink_precoder_Deployment.git) | ✔ Finalised |
+| GNN-based precoding training and interence | [repo](https://github.com/Agata872/GNN_Cell_Free.git) | ✔ Finalised |
 | Real CSI collection (Techtile Integration, B210 + UHD) | [repo](https://github.com/Agata872/Techtile_Channel_Measurement.git) | ✔ Finalised |
 
 ---
