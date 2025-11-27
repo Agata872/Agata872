@@ -1,4 +1,4 @@
-# Tianzheng Miao | Wireless AI & Advanced PHY Algorithm Development in Cell-free Massive MIMO and Real-world System-level Deployment
+# Tianzheng Miao | Wireless AI & Advanced Low/High PHY Algorithm Development in Cell-free Massive MIMO and Real-world System-level Deployment
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Agata872&style=flat" alt="Profile views" />
