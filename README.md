@@ -37,6 +37,7 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 
 | Description | Link | Status |
 |------------|------|--------|
+| Different modulation techniques experiments on USRP B210s | [repo](https://github.com/Agata872/USRP-B210-test-with-modulation.git) | 🟢 Ongoing |
 | Quantize and Interference Aware | [repo](https://github.com/Agata872/Quantize_aware_experiments.git) | 🟢 Ongoing |
 | GNN-based Precoding | [repo](https://github.com/Agata872/Gnn_based_downlink_precoder_Deployment.git) | ✔ Finalised |
 | Techtile CSI Collection | [repo](https://github.com/Agata872/Techtile_Channel_Measurement.git) | ✔ Finalised |
