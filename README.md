@@ -49,6 +49,7 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 | Description | Link | Status |
 |------------|------|--------|
 | Adaptive Compression Techniques | [repo](https://github.com/Agata872/Adaptive-Compression-Techniques-Globcom.git) | 🟡 Ongoing |
+| Quantized-aware-training-and-deploy-study | [repo](https://github.com/Agata872/Quantized-aware-training-and-deploy-study.git) | 🟡 Ongoing |
 | Testbed Evaluation of AI-based Precoding in Distributed MIMO Systems | [repo](https://github.com/Agata872/Testbed-Evaluation-of-AI-based-Precoding-in-Distributed-MIMO-Systems_WCNC.git) | ✔ Finalised |
 | GNN-based Precoder Design and Deployment | [repo](https://github.com/Agata872/NFV-SDN-Abstract.git) | ✔ Finalised |
 | GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI (SITB Poster) | [repo](https://github.com/Agata872/SITB-Poster.git) | ✔ Finalised |
