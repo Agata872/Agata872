@@ -94,11 +94,11 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Agata872&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Agata872&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Agata872&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Agata872&layout=compact" />
 </p>
 
 ---
