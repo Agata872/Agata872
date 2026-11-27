@@ -37,7 +37,6 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 
 | Description | Link | Status |
 |------------|------|--------|
-| O-RAN and 3GPP compatible link-level simulation | [repo](https://github.com/Agata872/Sionna-based-Simulation.git) | 🟢 Ongoing |
 | Different modulation techniques experiments on USRP B210s | [repo](https://github.com/Agata872/USRP-B210-test-with-modulation.git) | ✔ Finalised |
 | Quantize and Interference Aware | [repo](https://github.com/Agata872/Quantize_aware_experiments.git) | ✔ Finalised |
 | GNN-based Precoding | [repo](https://github.com/Agata872/Gnn_based_downlink_precoder_Deployment.git) | ✔ Finalised |
@@ -68,7 +67,8 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 | Description | Link | Status |
 |------------|------|--------|
 | AI-based Distributed Processing in O-RAN Architecture | [repo](https://github.com/Agata872/ORAN_Distributed_Processing_AI.git) | 🟡 Planning |
-| Quantization in the fronthaul link and interference aware transmission | [repo](https://github.com/Agata872/Low_signal_resolution_extended.git) | 🟢 Ongoing |
+| O-RAN and 3GPP compatible link-level simulation | [repo](https://github.com/Agata872/Sionna-based-Simulation.git) | 🟢 Ongoing |
+| Quantization in the fronthaul link and interference aware transmission | [repo](https://github.com/Agata872/Low_signal_resolution_extended.git) | ✔ Finalised |
 | GNN-based precoding deployment in Techtile (Downlink/Uplink, Pilot, Precoding) | [repo](https://github.com/Agata872/Gnn_based_downlink_precoder_Deployment.git) | ✔ Finalised |
 | GNN-based precoding training and interence | [repo](https://github.com/Agata872/GNN_Cell_Free.git) | ✔ Finalised |
 | Real CSI collection (Techtile Integration, B210 + UHD) | [repo](https://github.com/Agata872/Techtile_Channel_Measurement.git) | ✔ Finalised |
