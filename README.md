@@ -102,8 +102,6 @@ This README collects the main **experiment codes**, **LaTeX sources of papers**,
 ## 📫 Contact
 
 - 🎓 Affiliation: KU Leuven & Marie Skłodowska-Curie Actions: EMPOWER-6G Doctoral Network  
-- 📍 Location: Belgium  
+- 📍 Location: Belgium & Poland 
 - ✉️ Email: *(tianzheng.miao@kuleuven.be)*  
 - 🌐 GitHub: [@Agata872](https://github.com/Agata872)
-
-> If you use or build upon these codes or LaTeX projects, a citation or a star ⭐ is always appreciated.
